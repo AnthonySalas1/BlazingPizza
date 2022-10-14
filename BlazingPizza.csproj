@@ -11,4 +11,12 @@
     <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\User\REPOS\BlazingPizza\Pages\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\User\REPOS\BlazingPizza\Pages\.editorconfig" />
+  </ItemGroup>
+
 </Project>
